@@ -1,0 +1,56 @@
+main {
+    margin: 100px 0;
+}
+
+.form-error {
+    border: 1px solid red !important;
+}
+
+.container-narrow,
+.entries-container {
+    max-width: 680px;
+    margin: auto;
+}
+
+.branding {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.app-title {
+    font-size: 63px;
+}
+
+.app-slogan {
+    font-weight: 100;
+    font-size: 21px;
+    letter-spacing: 0.05em;
+}
+
+.main-form-container {
+    margin: 80px 0;
+}
+
+.card {
+    margin-bottom: 15px;
+}
+
+.card:last-child {
+    margin-bottom: 0;
+}
+
+select {
+    border: none !important;
+}
+
+.category-dropdown {
+    outline: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+.right {
+    float: right;
+}

@@ -1,0 +1,18 @@
+<article class="card" data-entry="{{ id }}">
+    <div class="card-block">
+        <header class="card-title">
+            <h1>{{ amount }}лв.</h1>
+            <h4>{{ shortDescription }}</h4>
+        </header>
+
+        <hr />
+
+        <footer class="card-text">
+            21.01.2017 &mdash; <span>{{ category }}</span>
+            <span class="right">
+                <a href="javascript:;" class="btn btn-sm btn-info" data-entry="{{ id }}" data-edit-btn>Edit</a>
+                <a href="javascript:;" class="btn btn-sm btn-danger" data-entry="{{ id }}" data-delete-btn>Delete</a>
+            </span>
+        </footer>
+    </div>
+</article>

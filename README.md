@@ -1,5 +1,6 @@
 ### Things learned/practiced about ES2015 with this tiny useless app:
 - Promises
+- New data structs - Map, Set etc.
 - Fat arrow functions (lexical this)
 - let/const
 - Functional programming (filter/map/reduce)
